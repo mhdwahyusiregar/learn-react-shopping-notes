@@ -138,3 +138,15 @@ button {
   font-size: 2rem;
   font-weight: bold;
 }
+
+/* tablet */
+@media (max-width: 768px) {
+  html {
+    font-size: 40%;
+  }
+}
+@media (max-width: 576px) {
+  html {
+    font-size: 40%;
+  }
+}
